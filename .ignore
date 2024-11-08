@@ -1,0 +1,55 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.env               # Um Umgebungsvariablen wie Datenbank-Passwörter auszuschließen
+.env.local
+.env.*.local
+
+# Logs
+logs
+*.log
+logs/**/*.log
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Build-Output
+dist/
+build/
+.cache/
+out/
+.next/            # Für Next.js (falls verwendet)
+
+# TypeScript
+*.tsbuildinfo     # TypeScript-Build-Info-Dateien
+
+# IDEs und Editor-Spezifisches
+.idea/            # WebStorm/IntelliJ
+.vscode/          # Visual Studio Code
+.DS_Store         # macOS-Datei
+
+# Testing
+coverage/         # Testabdeckungsberichte (falls z. B. Jest verwendet wird)
+jest-html-reporters-*.html
+
+# Linter und Formatter
+.eslintcache      # ESLint Cache-Dateien
+
+# React spezifisch
+*.tgz             # Packt/entpackt npm-Pakete als .tgz-Dateien
+*.lock-wscript    # Für Webpack
+
+# Bilder, die automatisch generiert werden
+*.webp            # Falls du Bilder in WebP konvertierst und speicherst
+
+# MongoDB
+*.mongodb         # Falls du exportierte/temporäre MongoDB-Dateien speicherst
+data/             # Falls Datenbank-Daten lokal gespeichert werden
+
+# Sonstiges
+*.bak             # Sicherungsdateien
+*.temp            # Temporäre Dateien
