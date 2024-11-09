@@ -2,6 +2,15 @@ import React from 'react'
 import {CONTACT} from '../constants'
 import {motion} from 'framer-motion'
 
+const CopyrightText = () => {
+  return (
+    <div className="text-xxs text-white">
+      © 2024 Lotfi Slim - All Rights Reserved
+    </div>
+  );
+};
+
+
 const Contact = () => {
   return (
     <div className='border-b bg-neutral-900 pb-20'>
@@ -25,6 +34,7 @@ const Contact = () => {
         className='my-4'>{CONTACT.phoneNo}</motion.p>
         <a href="#" className='border-b'>{CONTACT.email} </a>
       </div>
+      <div className='flex justify-center pt-4'><CopyrightText/></div>
     </div>
   )
 }

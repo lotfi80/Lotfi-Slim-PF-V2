@@ -1,5 +1,6 @@
 import { LOTFI_CONTENT } from "../constants";
 import profilePic from "../assets/assets/LotfiSlimProfile.png";
+import CV from "../assets/CV/Lebenslauf-English-LUX.pdf";
 import { motion } from "framer-motion";
 
 const container = (delay) => ({
@@ -16,7 +17,8 @@ const container = (delay) => ({
 
 const Lotfi = () => {
   return (
-    <div className="flex flex-col lg:flex-row w-full lg:p-10">
+      <>
+      <div className="flex flex-col lg:flex-row w-full lg:p-10">
       <div className="w-full lg:w-1/2 flex flex-col items-center lg:items-start">
         <motion.h1
           variants={container(0)}
@@ -49,7 +51,20 @@ const Lotfi = () => {
         transition={{duration: 1, delay: 1.2}}
          className="rounded-2xl" src={profilePic} alt="Lotfi Slim" />
       </div>
+      
     </div>
+    <motion.div
+     initial= {{x : 100 , opacity: 0}}
+     animate = {{x: 0 , opacity: 1}}
+     transition={{duration: 1, delay: 1.2}}
+    className="w-full lg:w-full flex justify-center lg:justify-end lg:px-48" >
+            <a href={CV} download className="text-blue-500 hover:underline tracking-tight p-4" >
+                  Download CV
+            </a>
+
+      </motion.div>
+      </>
+    
   );
 };
 

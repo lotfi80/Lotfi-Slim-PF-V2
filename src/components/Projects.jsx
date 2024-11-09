@@ -2,7 +2,7 @@ import { PROJECTS } from "../constants";
 import {motion} from "framer-motion";
 const Projects = () => {
   return (
-    <div className="border-b border-neutral-900 pb-4">
+    <div className="border-b border-neutral-900 pb-4 ml-10">
       <motion.h1 
       whileInView={{opacity:1, y:0}}
       initial={{opacity:0, y:-100}}
@@ -10,12 +10,12 @@ const Projects = () => {
       className="my-20 text-center text-4xl">Projects</motion.h1>
       <div>
         {PROJECTS.map((project, index) => (
-          <div key={index} className="mb-8 flex flex-wrap lg:justify-center">
+          <div key={index} className="mb-8 flex flex-wrap lg:justify-center ">
             <motion.div 
             whileInView={{opacity:1, x:0}}
             initial={{opacity:0, x:-100}}
             transition={{duration:1}}
-            className="w-full lg:w-1/4">
+            className="w-full lg:w-1/4 ">
               <a href={project.gitLink} target="_blank">
                 <img
                   width={150}
