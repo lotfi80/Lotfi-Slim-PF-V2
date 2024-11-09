@@ -1,0 +1,57 @@
+{
+      "lotfi_content": "Je suis un développeur full-stack passionné, spécialisé dans la création d'applications web robustes et évolutives. Avec 5 ans d'expérience pratique, j'ai perfectionné mes compétences en technologies front-end telles que React et Next.js, ainsi qu'en back-end avec Node.js, MySQL, PostgreSQL et MongoDB. Mon objectif est de mettre à profit mon expertise pour créer des solutions innovantes qui favorisent la croissance des entreprises et offrent une expérience utilisateur exceptionnelle.",
+      "download_cv": "Télécharger CV",
+      "about_text": "Je suis un développeur full-stack polyvalent et passionné par la création d'applications web efficaces et conviviales. Avec 5 ans d'expérience professionnelle, j'ai travaillé avec diverses technologies, notamment React, Next.js, Node.js, MySQL, PostgreSQL et MongoDB. Mon parcours dans le développement web a commencé par une grande curiosité sur le fonctionnement des choses, et il a évolué en une carrière où je cherche continuellement à apprendre et à m'adapter à de nouveaux défis. Je m'épanouis dans des environnements collaboratifs et j'aime résoudre des problèmes complexes pour fournir des solutions de haute qualité. En dehors du développement, j'aime rester actif, explorer de nouvelles technologies et contribuer à des projets open-source.",
+      "experiences": [
+        {
+          "year": "09/2023 - 11/2024",
+          "role": "Développeur Full Stack",
+          "company": "DCI Digital Career Institute Berlin",
+          "description": "Développement et maintenance d'applications web utilisant JavaScript, React.js et Node.js. Conception et implémentation d'API RESTful pour la communication des données. Collaboration avec des équipes transverses pour livrer des produits logiciels de haute qualité dans les délais.",
+          "technologies": ["HTML", "CSS", "JavaScript", "ReactJS", "MongoDB"]
+        },
+        {
+          "year": "01/2010 - 04/2023",
+          "role": "Chef de projet",
+          "company": "Mo-web Research, Düsseldorf",
+          "description": "Gestion et administration du site web de l'entreprise, y compris les mises à jour régulières et les améliorations."
+        },
+        {
+          "year": "01/2007 - 12/2009",
+          "role": "Responsable du panel",
+          "company": "Mo-web Research, Düsseldorf",
+          "description": "Gestion et administration du panel utilisateur français."
+        }
+      ],
+      "project": [
+        {
+          "title": "Heures Tracker",
+          "image": "project1",
+          "description": " L'application Freelancer Time Tracker permet aux utilisateurs d'enregistrer et de stocker facilement leurs heures de travail dans des plages horaires spécifiques. Avec une interface conviviale, les freelances peuvent facilement suivre leur productivité, s'assurant ainsi de rester organisés et concentrés sur leurs projets.",
+          "technologies": ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+          "gitLink": "https://github.com/lotfi80/zeiterfassung_v5"
+        },
+        {
+          "title": "BeMyEye",
+          "image": "project2",
+          "description": "Découvrez des offres imbattables et des promotions exclusives avec l'application Shop dans votre ville ! Les utilisateurs peuvent publier des offres dans leur région, et d'autres utilisateurs peuvent filtrer ces offres par région et catégorie. De plus, les utilisateurs peuvent aimer et commenter les publications en temps réel.",
+          "technologies": ["HTML", "CSS", "Angular", "Firebase"],
+          "gitLink": "https://github.com/lotfi80/BeMyEye-",
+          "productionLink": "https://zeiterfassung-v5.onrender.com/"
+        },
+        {
+          "title": "Canvas de jeu *OOP*",
+          "image": "project3",
+          "description": "Plongez dans une aventure passionnante avec Ball Quest ! Naviguez un ballon dynamique à travers des niveaux palpitants et esquivez des obstacles tels que des épines acérées et des murs mouvants. Visez les cibles pour accomplir chaque objectif.",
+          "technologies": ["HTML", "CSS", "React", "Bootstrap"],
+          "gitLink": "https://github.com/lotfi80/zeiterfassung_v5",
+          "productionLink": "https://lotfi80.github.io/Final-project-Game-canvas-OOP/"
+        }
+      ],
+      "contact": {
+        "address": "10 Rue du Neuort, 8373 Hobscheid, Luxembourg",
+        "phoneNo": "+352 621412227",
+        "email": "salioslim@hotmail.de"
+      }
+    }
+    

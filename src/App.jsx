@@ -5,6 +5,7 @@ import Technologies from "./components/Technologies";
 import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
+import Header from "./components/Header";
 import "./index.css";
 
 function App() {
@@ -18,9 +19,10 @@ function App() {
 
       </div>
       
-<div className="container mx-auto px-8">
+{/* <div className="container mx-auto px-8">
 
-</div>
+</div>  */}
+       <Header/>
         <Navbar />
         <Lotfi/>
         <About/>

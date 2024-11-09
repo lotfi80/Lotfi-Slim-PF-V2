@@ -1,0 +1,63 @@
+{
+      "lotfi_content": "I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.",
+      "download_cv": "Download CV",
+      "about_text": "I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.",
+      "experiences": [
+        {
+          "year": "09/2023 - 11/2024",
+          "role": "Full Stack Developer",
+          "company": "DCI Digital Career Institute Berlin",
+          "description": "Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.",
+          "technologies": ["HTML", "CSS", "JavaScript", "ReactJS", "MongoDB"]
+        },
+        {
+          "year": "01/2010 - 04/2023",
+          "role": "Project Manager",
+          "company": "Mo-web Research, Düsseldorf",
+          "description": "Management and administration of the company website, including regular updates and improvements."
+        },
+        {
+          "year": "01/2007 - 12/2009",
+          "role": "Panel Manager",
+          "company": "Mo-web Research, Düsseldorf",
+          "description": "Management and administration of the French user panel."
+        }
+      ],
+      "project": [
+            {
+                  "title": "Hours Tracker",
+                  "image": "project1",
+                  "description":
+                  "The Freelancer Time Tracker app allows users to effortlessly log and store their working hours within specified time frames. With a user-friendly interface, freelancers can easily track their productivity, ensuring they stay organized and focused on their projects.",
+                  "technologies": ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+                  "gitLink" :"https://github.com/lotfi80/zeiterfassung_v5"
+
+              
+                },
+                {
+                  "title": "BeMyEye",
+                  "image": "project2",
+                  "description":
+                  "Discover unbeatable deals and exclusive offers with the Shop App in your city! Users can post offers in their area, and other users can filter these offers by region and category. Additionally, users can like and comment on posts in real-time",
+                  "gitLink" :"https://github.com/lotfi80/BeMyEye-",
+                  "productionLink" :"https://zeiterfassung-v5.onrender.com/"
+              
+                },
+                {
+                  "title": "Game Canvas *OOP*",
+                  "image": "project3",
+                  "description":
+                  "Dive into an exciting adventure with Ball Quest! Navigate a dynamic balloon through thrilling levels and dodge obstacles like sharp spikes and moving walls. Aim for targets to complete each objective.",
+                  "technologies": ["HTML", "CSS", "React", "Bootstrap"],
+                  "gitLink" :"https://github.com/lotfi80/zeiterfassung_v5",
+                  "productionLink" :"https://lotfi80.github.io/Final-project-Game-canvas-OOP/"
+                }
+      ],
+      "contact": {
+            "address": "10 Rue du Neuort, 8373 Hobscheid, Luxemburg ",
+            "phoneNo": "+352 621412227 ",
+            "email": "salioslim@hotmail.de"
+          }
+
+    }
+    
