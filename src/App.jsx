@@ -19,9 +19,9 @@ function App() {
 
       </div>
       
-{/* <div className="container mx-auto px-8">
+<div className="container mx-auto px-8">
 
-</div>  */}
+</div> 
        <Header/>
         <Navbar />
         <Lotfi/>

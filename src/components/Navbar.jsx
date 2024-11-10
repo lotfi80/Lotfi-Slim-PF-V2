@@ -32,7 +32,7 @@ function Navbar() {
         <motion.a 
         initial= {{x : 100 , opacity: 0}}
         animate = {{x: 0 , opacity: 1}}
-        transition={{duration: 1, delay: 0.5}}
+        transition={{duration: 1, delay: 1}}
         className="text-blue-700 hover:underline cursor-pointer" 
         href="https://www.linkedin.com/in/lotfi-slim-de/" target='_blanc'>
          <FaLinkedin /> 
@@ -40,14 +40,14 @@ function Navbar() {
         <motion.a 
         initial= {{x : 100 , opacity: 0}}
         animate = {{x: 0 , opacity: 1}}
-        transition={{duration: 1, delay: 1}}
+        transition={{duration: 1, delay: 1.5}}
         href="https://github.com/lotfi80" target='_blanc'>
           <FaGithub />
         </motion.a>
         <motion.a 
         initial= {{x : 100 , opacity: 0}}
         animate = {{x: 0 , opacity: 1}}
-        transition={{duration: 1, delay: 1.5}}
+        transition={{duration: 1, delay: 2}}
         className="text-blue-500 hover:underline cursor-pointer"
         href="https://www.facebook.com/slim/">
           <FaFacebook />
@@ -55,7 +55,7 @@ function Navbar() {
         <motion.a
         initial= {{x : 100 , opacity: 0}}
         animate = {{x: 0 , opacity: 1}}
-        transition={{duration: 1, delay: 2}}
+        transition={{duration: 1, delay: 2.5}}
         className="text-pink-300 hover:underline cursor-pointer"
         href="#">
           <FaInstagram />

@@ -23,7 +23,7 @@ const Lotfi = () => {
   return (
       <>
       <div className="flex flex-col lg:flex-row w-full lg:px-10 m-4">
-      <div className="w-full lg:w-1/2 flex flex-col items-center lg:items-start">
+      <div className="w-full lg:w-1/2 flex flex-col items-center ">
         <motion.h1
           variants={container(0)}
           initial="hidden"
@@ -38,7 +38,7 @@ const Lotfi = () => {
           animate="visible"
           className="bg-gradient-to-r from-pink-300 via-slate-500  to-purple-500 bg-clip-text text-3xl tracking-tight text-transparent"
         >
-          full stack developer
+         Junior full stack developer
         </motion.span>
         <motion.p
           variants={container(1)}
@@ -53,14 +53,14 @@ const Lotfi = () => {
     variants={container(1.5)}
     initial="hidden"
     animate="visible"
-    className="w-2/3 lg:w-full flex justify-center lg:justify-start " >
+    className="w-2/3 lg:w-full flex justify-center lg:justify-center " >
             <a href={CV} download className="text-blue-500 hover:underline tracking-tight p-4" >
                   {t('download_cv')}
             </a>
 
       </motion.div>
       </div>
-      <div className="w-full lg:w-1/2 flex justify-center lg:justify-end lg:p-10">
+      <div className="w-full lg:w-1/2 flex justify-center lg:justify-start lg:p-10">
         <motion.img 
         initial= {{x : 100 , opacity: 0}}
         animate = {{x: 0 , opacity: 1}}
