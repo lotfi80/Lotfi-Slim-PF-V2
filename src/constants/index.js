@@ -45,7 +45,7 @@ export const PROJECTS = [
     image: project1,
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+    technologies: ["HTML", "CSS", "ReactJS", "Node.js", "MongoDB"],
     gitLink :"https://github.com/lotfi80/zeiterfassung_v5",
     // productionLink :"https://lotfi80.github.io/Final-project-Game-canvas-OOP/"
 
@@ -55,7 +55,7 @@ export const PROJECTS = [
     image: project2,
     description:
       "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+    technologies: ["HTML", "CSS", "ReactJS", "Tailwind","javaScript", "Node.js", "MongoDB"],
     gitLink :"https://github.com/lotfi80/BeMyEye-",
     productionLink :"https://zeiterfassung-v5.onrender.com/"
 
@@ -65,7 +65,7 @@ export const PROJECTS = [
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+    technologies: ["HTML", "CSS", "React", "Tailwind","sass" ],
     gitLink :"https://github.com/lotfi80/zeiterfassung_v5",
     productionLink :"https://lotfi80.github.io/Final-project-Game-canvas-OOP/"
   },
