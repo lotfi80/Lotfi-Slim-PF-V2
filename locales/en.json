@@ -1,26 +1,26 @@
 {
-      "lotfi_content": "I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.",
+      "lotfi_content": "I am a passionate Full-Stack Developer with a strong interest in developing robust and scalable web applications. With one year of hands-on experience, I have honed my skills in front-end technologies such as ReactJS, JavaScript, and Next.js, as well as back-end technologies like Node.js and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.",
       "download_cv": "Download CV",
-      "about_text": "I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.",
+      "about_text": "I am a dedicated and versatile full-stack developer with a passion for creating efficient and user-friendly web applications. During my one-year training, I gained extensive experience with React, Next.js, Node.js, JavaScript, TypeScript, and MongoDB, and successfully developed an application. I also had the opportunity to work on several projects, where I was able to apply what I had learned in a practical context. My journey into web development began with a deep curiosity about how things work and has evolved into a strong interest in continuous learning and adaptability. I look forward to working on various projects to further deepen my technical skills while also enhancing my problem-solving abilities and communication strength in team settings.",
       "experiences": [
         {
           "year": "09/2023 - 11/2024",
           "role": "Full Stack Developer",
           "company": "DCI Digital Career Institute Berlin",
-          "description": "Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.",
+          "description": "During my training, I gained experience in developing and maintaining web applications using technologies such as JavaScript, React.js, and Node.js. I learned to design dynamic user interfaces with React.js, optimizing both performance and user experience. I also deepened my skills in JavaScript and the implementation of RESTful APIs for communication between the frontend and backend, ensuring their efficiency and security. Additionally, I worked with MongoDB to manage databases and create robust storage solutions. Through several practical projects, I was able to apply these skills to solve real-world problems and strengthen my project management and teamwork abilities, preparing me for new challenges in web development.",
           "technologies": ["HTML", "CSS", "JavaScript", "ReactJS", "MongoDB"]
         },
         {
           "year": "01/2010 - 04/2023",
           "role": "Project Manager",
           "company": "Mo-web Research, Düsseldorf",
-          "description": "Management and administration of the company website, including regular updates and improvements."
+          "description": "In my role as Project Manager I was responsible for managing and administering the company’s website. This included regular updates and improvements to ensure the site remained up-to-date and functional. Additionally, I was responsible for handling and resolving customer complaints to ensure high customer satisfaction and strengthen trust in the company. I planned, coordinated, and monitored numerous projects, with a focus on ensuring they were completed on time and within budget. I worked closely with various departments to ensure smooth project execution and that all requirements were met. My experience in project planning, resource management, and communication enabled me to consistently find efficient solutions and achieve the company’s goals successfully."
         },
         {
           "year": "01/2007 - 12/2009",
           "role": "Panel Manager",
           "company": "Mo-web Research, Düsseldorf",
-          "description": "Management and administration of the French user panel."
+          "description": "Management and administration of the French user panel. Handling and resolving complaints from users to ensure high customer satisfaction and strengthen trust in the company."
         }
       ],
       "project": [

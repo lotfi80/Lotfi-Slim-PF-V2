@@ -1,26 +1,26 @@
 {
-      "lotfi_content": "Je suis un développeur full-stack passionné, spécialisé dans la création d'applications web robustes et évolutives. Avec 5 ans d'expérience pratique, j'ai perfectionné mes compétences en technologies front-end telles que React et Next.js, ainsi qu'en back-end avec Node.js, MySQL, PostgreSQL et MongoDB. Mon objectif est de mettre à profit mon expertise pour créer des solutions innovantes qui favorisent la croissance des entreprises et offrent une expérience utilisateur exceptionnelle.",
+      "lotfi_content": "Je suis un développeur Full-Stack passionné, avec un enthousiasme pour le développement d'applications web robustes et évolutives. Fort d'une année d'expérience pratique, j'ai affiné mes compétences en technologies front-end telles que ReactJS, JavaScript et Next.js, ainsi qu'en technologies back-end comme Node.js et MongoDB. Mon objectif est de mettre mon expertise à profit pour développer des solutions innovantes qui stimulent la croissance des entreprises et offrent des expériences utilisateur exceptionnelles.",
       "download_cv": "Télécharger CV",
-      "about_text": "Je suis un développeur full-stack polyvalent et passionné par la création d'applications web efficaces et conviviales. Avec 5 ans d'expérience professionnelle, j'ai travaillé avec diverses technologies, notamment React, Next.js, Node.js, MySQL, PostgreSQL et MongoDB. Mon parcours dans le développement web a commencé par une grande curiosité sur le fonctionnement des choses, et il a évolué en une carrière où je cherche continuellement à apprendre et à m'adapter à de nouveaux défis. Je m'épanouis dans des environnements collaboratifs et j'aime résoudre des problèmes complexes pour fournir des solutions de haute qualité. En dehors du développement, j'aime rester actif, explorer de nouvelles technologies et contribuer à des projets open-source.",
+      "about_text": "Je suis un développeur full-stack engagé et polyvalent, passionné par la création d’applications web efficaces et conviviales. Lors de ma formation d’un an, j’ai acquis une vaste expérience avec React, Next.js, Node.js, JavaScript, TypeScript et MongoDB, et j’ai réussi à développer une application. J’ai également eu l’opportunité de travailler sur plusieurs projets, où j’ai pu mettre en pratique ce que j'avais appris. Mon parcours dans le développement web a commencé par une profonde curiosité sur le fonctionnement des choses et s’est transformé en un grand intérêt pour l’apprentissage continu et l’adaptabilité. Je suis impatient de travailler sur divers projets pour approfondir mes compétences techniques tout en renforçant mes capacités de résolution de problèmes et de communication en équipe.",
       "experiences": [
         {
           "year": "09/2023 - 11/2024",
           "role": "Développeur Full Stack",
           "company": "DCI Digital Career Institute Berlin",
-          "description": "Développement et maintenance d'applications web utilisant JavaScript, React.js et Node.js. Conception et implémentation d'API RESTful pour la communication des données. Collaboration avec des équipes transverses pour livrer des produits logiciels de haute qualité dans les délais.",
+          "description": "Au cours de ma formation, j'ai acquis de l'expérience dans le développement et la maintenance d'applications web en utilisant des technologies telles que JavaScript, React.js et Node.js. J'ai appris à concevoir des interfaces utilisateur dynamiques avec React.js, en optimisant les performances et l'expérience utilisateur. J'ai également approfondi mes compétences en JavaScript et dans l'implémentation d'API RESTful pour la communication entre le frontend et le backend, en garantissant leur efficacité et sécurité.De plus, j'ai travaillé avec MongoDB pour gérer des bases de données et créer des solutions de stockage robustes. À travers plusieurs projets pratiques, j'ai pu appliquer ces compétences pour résoudre des problèmes réels et renforcer mes capacités en gestion de projets et en travail d'équipe, me préparant ainsi à de nouveaux défis dans le développement web. ",
           "technologies": ["HTML", "CSS", "JavaScript", "ReactJS", "MongoDB"]
         },
         {
           "year": "01/2010 - 04/2023",
           "role": "Chef de projet",
           "company": "Mo-web Research, Düsseldorf",
-          "description": "Gestion et administration du site web de l'entreprise, y compris les mises à jour régulières et les améliorations."
+          "description": "Dans mon rôle de Project manager j'étais responsable de la gestion et de l'administration du site web de l'entreprise. Cela incluait des mises à jour régulières et des améliorations afin de garantir que le site soit toujours à jour et fonctionnel. De plus, j'étais chargé de gérer et de résoudre les plaintes des clients afin de garantir une haute satisfaction client et de renforcer la confiance dans l'entreprise. J'ai planifié, coordonné et supervisé de nombreux projets, en me concentrant sur leur achèvement dans les délais et le respect du budget. J'ai travaillé en étroite collaboration avec différents départements pour garantir le bon déroulement des projets et que toutes les exigences soient satisfaites. Mon expérience en planification de projets, gestion des ressources et communication m'a permis de trouver des solutions efficaces et d'atteindre les objectifs de l'entreprise avec succès."
         },
         {
           "year": "01/2007 - 12/2009",
           "role": "Responsable du panel",
           "company": "Mo-web Research, Düsseldorf",
-          "description": "Gestion et administration du panel utilisateur français."
+          "description": "Gestion et administration du panel utilisateur français. Gestion et résolution des plaintes des utilisateurs pour assurer une grande satisfaction client et renforcer la confiance dans l'entreprise."
         }
       ],
       "project": [
