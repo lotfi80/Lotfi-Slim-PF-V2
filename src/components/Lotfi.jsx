@@ -68,7 +68,7 @@ const Lotfi = () => {
             initial={{ x: 100, opacity: 0 }}
             animate={{ x: 0, opacity: 1 }}
             transition={{ duration: 1, delay: 1.2 }}
-            className="rounded-2xl"
+            className="rounded-2xl w-80 h-80"
             src={profilePic}
             alt="Lotfi Slim foto"
             
