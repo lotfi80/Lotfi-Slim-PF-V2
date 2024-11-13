@@ -34,14 +34,17 @@ function Navbar() {
         animate = {{x: 0 , opacity: 1}}
         transition={{duration: 1, delay: 1}}
         className="text-blue-700 hover:underline cursor-pointer" 
-        href="https://www.linkedin.com/in/lotfi-slim-de/" target='_blanc'>
+        href="https://www.linkedin.com/in/lotfi-slim-de/"
+         target='_blanc'
+         aria-label="Visit Slim's Linkedin page">
          <FaLinkedin /> 
         </motion.a>
         <motion.a 
         initial= {{x : 100 , opacity: 0}}
         animate = {{x: 0 , opacity: 1}}
         transition={{duration: 1, delay: 1.5}}
-        href="https://github.com/lotfi80" target='_blanc'>
+        href="https://github.com/lotfi80" target='_blanc'
+        aria-label="Visit Slim's GitHub page">
           <FaGithub />
         </motion.a>
         <motion.a 
@@ -49,7 +52,8 @@ function Navbar() {
         animate = {{x: 0 , opacity: 1}}
         transition={{duration: 1, delay: 2}}
         className="text-blue-500 hover:underline cursor-pointer"
-        href="https://www.facebook.com/slim/">
+        href="https://www.facebook.com/slim/"
+        aria-label="Visit Slim's Facebook page">
           <FaFacebook />
         </motion.a>
         <motion.a
@@ -57,7 +61,8 @@ function Navbar() {
         animate = {{x: 0 , opacity: 1}}
         transition={{duration: 1, delay: 2.5}}
         className="text-pink-300 hover:underline cursor-pointer"
-        href="#">
+        href="#"
+        aria-label="Visit Slim's  page">
           <FaInstagram />
         </motion.a>
         

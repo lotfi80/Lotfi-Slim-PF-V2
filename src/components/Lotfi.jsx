@@ -56,6 +56,7 @@ const Lotfi = () => {
             <a
               href={CV}
               download
+              aria-label="Download Slim's CV"
               className="text-white bg-purple-500 hover:bg-blue-500 hover:text-black p-4 rounded mb-10 lg:m-auto"
             >
               {t("download_cv")}
@@ -69,7 +70,8 @@ const Lotfi = () => {
             transition={{ duration: 1, delay: 1.2 }}
             className="rounded-2xl"
             src={profilePic}
-            alt="Lotfi Slim"
+            alt="Lotfi Slim foto"
+            
           />
         </div>
       </div>

@@ -31,7 +31,7 @@ const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <RiReactjsLine className="text-7xl text-cyan-400" />
+          <RiReactjsLine className="text-7xl text-cyan-400" alt="ReactJS logo"/>
         </motion.div>
         <motion.div
           variants={iconsVariants(1)}
@@ -39,7 +39,7 @@ const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <SiTypescript className="text-7xl text-blue-500" />
+          <SiTypescript className="text-7xl text-blue-500" alt="TypeScript logo"/>
         </motion.div>
         <motion.div
           variants={iconsVariants(1.5)}
@@ -55,7 +55,7 @@ const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <SiExpress className="text-7xl text-red-700" />
+          <SiExpress className="text-7xl text-red-700" alt="ExpressJS logo" />
         </motion.div>
         <motion.div
           variants={iconsVariants(2.5)}
@@ -71,7 +71,7 @@ const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <SiTailwindcss className="text-7xl text-blue-400" />
+          <SiTailwindcss className="text-7xl text-blue-400" alt="Tailwind logo" />
         </motion.div>
       </div>
     </div>

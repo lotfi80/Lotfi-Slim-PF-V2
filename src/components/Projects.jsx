@@ -28,7 +28,8 @@ const Projects = () => {
               className="w-full lg:w-1/4 flex flex-wrap lg:justify-center "
             >
               <a className="flex flex-wrap justify-center w-full"
-              href={project.gitLink} target="_blank" rel="noopener noreferrer">
+              href={project.gitLink} target="_blank" rel="noopener noreferrer"
+               >
                 <img
                   width={150}
                   height={150}
