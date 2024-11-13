@@ -17,13 +17,13 @@ const LanguageSwitcher = () => {
     <div className="language-switcher fixed top-0 left-0 right-0 z-10 shadow-md">
       <div className="flex justify-center space-x-4 py-4">
         <button onClick={() => changeLanguage("en")} aria-label="Switch to English">
-          <Flag code="GB" className="w-8 h-8" /> 
+          <Flag code="GB" className="w-8 h-8"  alt="Great Britain Flag" /> 
         </button>
         <button onClick={() => changeLanguage("de")} aria-label="Switch to German">
-          <Flag code="DE" className="w-8 h-8" /> 
+          <Flag code="DE" className="w-8 h-8" alt="Flag German"  /> 
         </button>
         <button onClick={() => changeLanguage("fr")}  aria-label="Switch to French">
-          <Flag code="FR" className="w-8 h-8" /> 
+          <Flag code="FR" className="w-8 h-8"  alt="French Flag"  /> 
         </button>
 
       </div>
