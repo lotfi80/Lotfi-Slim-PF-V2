@@ -1,6 +1,8 @@
 import { LOTFI_CONTENT } from "../constants";
 import profilePic from "../assets/assets/LotfiSlimProfile.png";
-import CV from "../assets/CV/Lebenslauf-English-LUX.pdf";
+import CV_EN from "../assets/CV/CV_Englisch_LUX.pdf";
+import CV_DE from "../assets/CV/Lebenslauf_DEU_LUX.pdf";
+import CV_FR from "../assets/CV/CV_Francais_LUX.pdf";
 import { motion } from "framer-motion";
 import { useTranslation } from "react-i18next";
 
@@ -15,9 +17,21 @@ const container = (delay) => ({
     },
   },
 });
+const getCVLink = () => {
+  switch (i18n.language) {
+    case "de": // Deutsch
+      return CV_DE;
+    case "fr": // Französisch
+      return CV_FR;
+    case "en": // Englisch
+    default:
+      return CV_EN;
+  }
+};
 
 const Lotfi = () => {
   const { t } = useTranslation();
+  
 
   return (
     <>
@@ -54,7 +68,7 @@ const Lotfi = () => {
             className="w-2/3 lg:w-full flex justify-center lg:justify-center "
           >
             <a
-              href={CV}
+              href={getCVLink()}
               download
               aria-label="Download Slim's CV"
               className="text-white bg-purple-500 hover:bg-blue-500 hover:text-black p-4 rounded mb-10 lg:m-auto"
