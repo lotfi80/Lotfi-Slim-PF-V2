@@ -5,6 +5,7 @@ import CV_DE from "../assets/CV/Lebenslauf_DEU_LUX.pdf";
 import CV_FR from "../assets/CV/CV_Francais_LUX.pdf";
 import { motion } from "framer-motion";
 import { useTranslation } from "react-i18next";
+import i18n from "../i18n";
 
 const container = (delay) => ({
   hidden: { x: -100, opacity: 0 },
